@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Nguyen</h1>
-<h3 align="center">I am just a normal pupil from FPT University who likes to playing MC =))</h3>
+<h3 align="center">I am just a normal student from FPT University who likes to playing MC =))</h3>
 
 - 🌱 I’m currently learning **Frontend development and Japanese.**
 
